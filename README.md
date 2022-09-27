@@ -10,7 +10,7 @@ kalian bisa mengikuti ini dengan sangat mudah walaupun kalian tidak punya skill 
 
 - Jika kalian bisa liat pada halaman Home Repo terdapat button **Add File**
 - saat sudah kalian akan mendapatkan pilihan untuk **Upload a file** atau **Create A file**
-- jika kalian memilihi Create A file kalian bisa menambahkan kode kalian secara manual dan kalian bisa menamakan sesuai format file yang kalian pili
+- jika kalian memilihi Create A file kalian bisa menambahkan kode kalian secara manual dan kalian bisa menamakan sesuai format file yang kalian pilih
 - setelah itu kalian bisa menambahkan judul kontribusi dan penjelasan tentang kontribusi kalian
 
 ### Selamat Kalian telah berkontribusi
